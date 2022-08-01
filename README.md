@@ -2,4 +2,4 @@
 
 ## Bike Sales Dashboard
 
-![](images/screenshot_bike.png)
+![](images/Screenshot_bike.png)
